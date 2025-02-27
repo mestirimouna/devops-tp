@@ -1,3 +1,0 @@
-# requirements.txt
-# Example dependency (uncomment if needed)
-# flask==2.1.1
